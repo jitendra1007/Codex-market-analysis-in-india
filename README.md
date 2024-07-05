@@ -15,7 +15,7 @@ CodeX launched its energy drink in 10 Indian cities a few months ago. The Market
 - **Age Group**: The age group 19-30 has the highest number of enthusiasts.
 - **Preferred Ingredient**: Caffeine is the most preferred ingredient, with 38.96% share.
 - **Top Brand**: Cola-Coka has the highest brand preference.
-- **Energy Drink Preference**: 9.80% of total respondents prefer energy drinks.
+- **Energy Drink Preference**: 9.80% of total respondents prefer Codex energy drink over other brands.
 - **Brand Choice Factor**: Brand reputation is the highest weightage factor for choosing a brand.
 
 ### Pages 3 and 4
